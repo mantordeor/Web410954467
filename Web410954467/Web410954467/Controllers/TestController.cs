@@ -11,6 +11,8 @@ namespace Web410954467.Controllers
         // GET: Test
         public ActionResult Index()
         {
+            ViewBag.bruce = 100;
+            ViewData["bruce"] = 200;
             return View();
         }
         public ActionResult HW1()
