@@ -257,8 +257,8 @@ C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh-Hant\System.Web.WebPages.resources.dll
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
-C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\Debug\Web410954467.csproj.AssemblyReference.cache
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\Debug\Web410954467.csproj.CoreCompileInputs.cache
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\Debug\Web410954467.csproj.CopyComplete
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\Debug\Web410954467.dll
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\Debug\Web410954467.pdb
+C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\Debug\Web410954467.csproj.AssemblyReference.cache

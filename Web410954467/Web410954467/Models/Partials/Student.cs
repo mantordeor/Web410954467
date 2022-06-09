@@ -17,7 +17,7 @@ namespace Web410954467.Models
         [Required(ErrorMessage = "請填寫姓名")]
         [Display(Name = "姓名")]
         [StringLength(5, MinimumLength = 2, ErrorMessage = "2-5")]
-        public string Name { get; set; }
+        public string Userame { get; set; }
         [Required(ErrorMessage = "請填寫學號")]
         [Display(Name = "學號")]
         [StringLength(10, ErrorMessage = "10")]
@@ -26,6 +26,10 @@ namespace Web410954467.Models
         [Display(Name = "郵箱")]
         [EmailAddress]
         public string Email { get; set; }
-        
+
+        [Required(ErrorMessage = "必填欄位")]
+        [Display(Name = "是否註冊")]
+        public bool IsActive { get; set; }
+
     }
 }

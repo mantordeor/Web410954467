@@ -4,9 +4,9 @@
     <EntitySetMapping Name="Student">
       <EntityTypeMapping TypeName="db401954467Model.Student">
         <MappingFragment StoreEntitySet="Student">
+          <ScalarProperty Name="Username" ColumnName="Username" />
           <ScalarProperty Name="IsActive" ColumnName="IsActive" />
           <ScalarProperty Name="Id" ColumnName="Id" />
-          <ScalarProperty Name="Name" ColumnName="Name" />
           <ScalarProperty Name="Number" ColumnName="Number" />
           <ScalarProperty Name="Email" ColumnName="Email" />
         </MappingFragment>

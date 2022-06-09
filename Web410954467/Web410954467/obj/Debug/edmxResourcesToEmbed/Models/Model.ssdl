@@ -5,10 +5,10 @@
       <PropertyRef Name="Id" />
     </Key>
     <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
-    <Property Name="Name" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="10" Nullable="false" />
     <Property Name="Number" Type="nvarchar" MaxLength="10" Nullable="false" />
     <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
-    <Property Name="IsActive" Type="bit" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
   </EntityType>
   <EntityContainer Name="db401954467ModelStoreContainer">
     <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />
