@@ -4,10 +4,11 @@
     <Key>
       <PropertyRef Name="Id" />
     </Key>
-    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="Name" Type="nvarchar" MaxLength="10" Nullable="false" />
     <Property Name="Number" Type="nvarchar" MaxLength="10" Nullable="false" />
-    <Property Name="Email" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="IsActive" Type="bit" />
   </EntityType>
   <EntityContainer Name="db401954467ModelStoreContainer">
     <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />

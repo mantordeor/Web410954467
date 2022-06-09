@@ -249,6 +249,7 @@ C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\Ne
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\Antlr3.Runtime.pdb
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh-Hant\System.Web.Helpers.resources.dll
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh-Hant\System.Web.Mvc.resources.dll
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh-Hant\System.Web.Optimization.resources.dll
@@ -261,4 +262,3 @@ C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\De
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\Debug\Web410954467.csproj.CopyComplete
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\Debug\Web410954467.dll
 C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\obj\Debug\Web410954467.pdb
-C:\Users\acer\Desktop\專案軟體\Web410954467\Web410954467\Web410954467\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
